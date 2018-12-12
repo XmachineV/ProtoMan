@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.denis",
+      "nativeLanguage": "pt-br"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "monolith",
+    "baseName": "prot",
+    "packageName": "com.denis",
+    "packageFolder": "com/denis",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "NWUwMGFkYWUwMDRhMjc4ZWFhNTVlZmZjY2JkZDYxZmIyYTMzNWQwYzYxMzdhNjMxNjE4MzQ2N2Q1MGJlZTFlMzU0ZGI3ODQ5NDkzNGVhYWY4NWQ2YjgzN2U5Y2RkYWVjMmJlNWIyNTJjYWRjOWIzNGJkOWJiZWNhYTgxOTcxNTI=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "pt-br",
+    "languages": [
+      "pt-br",
+      "en"
+    ]
+  }
+}
